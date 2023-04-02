@@ -1,3 +1,14 @@
+# React Simple Movie App
+## App Environment
+- themoviedb.org API
+- Pure CSS
+
+## Information
+- Website: www.mehmettepeli.com
+- E-Mail: mehmet@mehmettepeli.com
+
+<img src="https://i.imgur.com/QWMOfov.jpeg"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
